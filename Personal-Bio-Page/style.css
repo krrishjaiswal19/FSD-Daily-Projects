@@ -1,0 +1,59 @@
+/* 1️⃣ Full Page Styling */
+body {
+  background-color: #eef2f3;
+  font-family: Arial, sans-serif;
+}
+
+/* 2️⃣ Center card (BOX MODEL use) */
+.container {
+  width: 500px;
+  background-color: white;
+
+  padding: 20px;      /* inside space */
+  margin: 40px auto;  /* center + outside space */
+
+  border-radius: 10px;
+  border: 2px solid #ddd;
+}
+
+/* 3️⃣ Main Heading */
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+/* 4️⃣ Section Headings */
+h2 {
+  color: #555;
+  margin-top: 20px;
+}
+
+/* 5️⃣ Paragraph */
+p {
+  font-size: 16px;
+  color: #444;
+}
+
+/* 6️⃣ Image Styling */
+.profile-img {
+  display: block;
+  margin: 10px auto;
+  border-radius: 50%;
+  border: 3px solid #333;
+}
+
+/* 7️⃣ Lists */
+ul, ol {
+  margin-left: 20px;
+}
+
+/* 8️⃣ Button */
+button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
