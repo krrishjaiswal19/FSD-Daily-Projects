@@ -1,28 +1,97 @@
 # FSD Daily Projects (Monday–Friday)
 
-This repository contains my **daily Full Stack Development (FSD) practice projects**, created from **Monday to Friday** as part of my structured learning plan.  
-The goal of this repository is to build **strong fundamentals**, practice concepts daily, and maintain **consistent GitHub activity**.
+This repository contains my **daily Full Stack Development (FSD) practice projects**, created from **Monday to Friday** as part of my structured learning plan.
 
-# DAY-1 Practice-roject
-How to uplad folder and file on github and this is my first project after learning something in HTML. 
+The goal of this repository is to:
+- Build **strong fundamentals**
+- Practice concepts daily
+- Maintain **consistent GitHub activity**
+- Track my learning progress in a structured way
 
-# DAY-2 Registration-From-Page-Project
-Today I learn HTML input types textarea select dropdown radio, checkbox form + submit button and make the small HTML project using all of this.
+---
 
-# DAY-3 Students-Marks-Table-page-Project
-Today I learn HTML Tables table, tr, th, td colspan, rowspan forms + table combine and make the small HTML project using all of this. 
+## 📅 Daily Projects
 
-# DAY-4 Mini-Website-Page-Project 
-Using everything I learned related to HTML throughout the entire week, I have created a mini website project.
+### DAY-1: Personal Bio Page (HTML)
+- Learned HTML basics: tags, elements, attributes
+- Headings, paragraphs, links, images
+- Lists (ul, ol), buttons, hr, br
+- Built a simple personal bio page
 
-# DAY-7 Media-Page-Project
-Today i learn HTML Anchor tag deep (download, mailto, target) Image optimization (alt, title) Audio, 
-video tags HTML entities (©, <, >) Meta tags basics (SEO ka intro) and make the small HTML project using all of this.
+---
 
-# DAY-8 Job-Application-Project
-Today I learn HTML required, minlength, maxlength pattern attribute fieldset + legend disabled, readonly autofocus File upload input nad make the small HTML project using all of this  
+### DAY-2: Registration Form Page
+- Input types
+- Textarea
+- Select dropdown
+- Radio & checkbox
+- Form with submit button
 
-> **Note:**  
-> - Only **Monday–Friday projects** are pushed here  
-> - Weekly big projects are uploaded in a **separate repository
+---
+
+### DAY-3: Travel Website Homepage
+- div & span
+- Semantic tags (header, nav, footer, section, article)
+- iframe
+- Created a simple travel website homepage
+
+---
+
+### DAY-4: Student Marks Table Page
+- Table, tr, th, td
+- Colspan & rowspan
+- Forms + table combined
+
+---
+
+### DAY-5: Mini Website Project
+- Used all HTML concepts learned during the week
+- Created a multi-page mini website
+- Strengthened HTML structure and linking
+
+---
+
+### DAY-8: Media Page Project
+- Anchor tag deep dive (download, mailto, target)
+- Image optimization (alt, title)
+- Audio & video tags
+- HTML entities
+- Meta tags (SEO basics)
+
+---
+
+### DAY-9: Job Application Form Project
+- Advanced form attributes:
+  - required
+  - minlength / maxlength
+  - pattern
+  - fieldset & legend
+  - disabled & readonly
+  - autofocus
+- File upload input
+- Built a complete job application form
+
+---
+
+### DAY-10: CSS Styled Profile Page
+- Applied CSS to Day-1 Personal Bio Page
+- Learned CSS basics and Box Model
+- Designed a clean and centered profile card UI
+
+---
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3 (Basics)
+
+---
+
+## 📌 Notes
+- Only **Monday–Friday daily projects** are pushed here
+- **Weekly big projects** are uploaded in a separate repository
+- Each project represents **real learning + implementation**
+
+---
+
+⭐ This repository documents my journey from HTML basics to styled UI and beyond.
 
