@@ -80,6 +80,36 @@ The goal of this repository is to:
 
 ---
 
+---
+
+### DAY-11: CSS Layout Practice Page  
+- Learned CSS layout fundamentals  
+- Display property:
+  - block
+  - inline
+  - inline-block  
+- Worked with width & height properties  
+- Understood overflow behavior:
+  - visible
+  - hidden
+  - scroll
+  - auto  
+- Learned CSS position basics:
+  - static
+  - relative
+  - absolute  
+- Understood z-index and stacking order  
+
+#### Small Project:
+- Built a layout practice page  
+- Created a fixed header using `position: fixed`  
+- Designed 3 content sections below the header  
+- Focused on spacing, positioning, and layout flow  
+
+This project helped me understand how real web page layouts are structured using CSS positioning and display properties.
+
+---
+
 ## 🛠 Tech Stack
 - HTML5
 - CSS3 (Basics)
