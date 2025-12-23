@@ -110,6 +110,30 @@ This project helped me understand how real web page layouts are structured using
 
 ---
 
+### DAY-12: CSS Flexbox Cards Layout
+- Learned CSS Flexbox fundamentals for modern layouts  
+- Understood **flex container vs flex items**  
+- Worked with core Flexbox properties:
+  - flex-direction
+  - justify-content
+  - align-items
+  - flex-wrap
+  - gap
+  - align-self  
+- Built a responsive **cards layout** using Flexbox  
+- Created 3–6 cards aligned neatly with proper spacing  
+- Improved understanding of alignment on both main axis and cross axis  
+
+#### Small Project:
+- Flexbox Cards Layout  
+- Responsive design using `flex-wrap`  
+- Clean spacing using `gap`  
+- Centered content inside cards using Flexbox  
+
+This project helped me understand how Flexbox is used in real-world layouts to build responsive and well-aligned UI components.
+
+---
+
 ## 🛠 Tech Stack
 - HTML5
 - CSS3 (Basics)
