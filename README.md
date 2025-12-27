@@ -134,9 +134,49 @@ This project helped me understand how Flexbox is used in real-world layouts to b
 
 ---
 
-## 🛠 Tech Stack
+# DAY-15: CSS Advanced Basics – Stylish Card Component
+
+This project is part of my **Full Stack Development (FSD) daily practice**.  
+On **Day 15**, I focused on **CSS Advanced Basics** and built a **stylish card UI component** using modern CSS properties.
+
+---
+
+## 📌 Topics Covered (CSS Advanced)
+
+- Display properties:
+  - `inline`
+  - `inline-block`
+  - `none`
+  - `visibility`
+- Margin collapsing
+- CSS units:
+  - `px`, `%`, `em`, `rem`
+  - `vh`, `vw`
+- `border-radius`
+- `box-shadow`
+- `text-shadow`
+- CSS `transition`
+- Hover effects
+
+---
+
+## 🎨 Project Overview
+
+### Stylish Card Component
+A clean and modern card UI with:
+- Rounded corners
+- Smooth hover animation
+- Box shadow for depth
+- Responsive sizing using CSS units
+
+This project helped me understand how CSS advanced properties are used in real-world UI components.
+
+---
+
+## 🛠️ Technologies Used
+
 - HTML5
-- CSS3 (Basics)
+- CSS3 (Advanced Basics)
 
 ---
 
