@@ -173,6 +173,74 @@ This project helped me understand how CSS advanced properties are used in real-w
 
 ---
 
+# DAY 16 — Flexbox Deep Dive (Landing Page Project)
+
+This project is part of my **Full Stack Development (FSD) daily practice**.  
+On **Day 16**, I focused on mastering **CSS Flexbox advanced concepts** by building a **complete landing page layout** using Flexbox only.
+
+---
+
+## 📌 Topics Covered
+
+### 🔹 CSS Flexbox Deep Dive
+- display: flex
+- justify-content (all variations)
+- align-items vs align-content
+- flex-basis
+- flex-grow
+- flex-shrink
+- Perfect centering technique using Flexbox
+- Responsive Flexbox card layouts
+
+---
+
+## 🛠️ Project Description
+
+### 🔹 Flexbox Landing Page Layout
+This project is a **fully responsive landing page layout** created using **pure HTML and CSS (Flexbox)**.
+
+### Sections Included:
+- Header (Navbar with logo & menu)
+- Hero Section (Perfectly centered content)
+- Card Section (Responsive Flexbox cards)
+
+The layout adjusts smoothly across different screen sizes using Flexbox properties like `flex-wrap`, `flex-grow`, and `flex-basis`.
+
+---
+
+# DAY 17 — CSS Grid Image Gallery
+
+This project is part of my **Full Stack Development (FSD) daily practice**.  
+On Day 17, I learned the **basics of CSS Grid** and built a **grid-based image gallery** using only HTML and CSS.
+
+---
+
+## 🚀 What I Learned
+
+### CSS Grid Concepts
+- Grid container & grid items
+- `display: grid`
+- `grid-template-columns` & `grid-template-rows`
+- `gap`
+- `repeat()` function
+- `fr` unit
+- Creating simple grid layouts
+
+---
+
+## 🛠️ Project: Grid Based Image Gallery
+
+A clean and responsive image gallery created using **CSS Grid**.
+
+### Features:
+- 3-column grid layout
+- Equal width columns using `fr` unit
+- Proper spacing using `gap`
+- Images fit perfectly using `object-fit`
+- Clean and simple UI
+
+---
+
 ## 🛠️ Technologies Used
 
 - HTML5
