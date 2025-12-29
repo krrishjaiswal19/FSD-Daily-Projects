@@ -134,7 +134,7 @@ This project helped me understand how Flexbox is used in real-world layouts to b
 
 ---
 
-# DAY-15: CSS Advanced Basics – Stylish Card Component
+### DAY-15: CSS Advanced Basics – Stylish Card Component
 
 This project is part of my **Full Stack Development (FSD) daily practice**.  
 On **Day 15**, I focused on **CSS Advanced Basics** and built a **stylish card UI component** using modern CSS properties.
@@ -173,7 +173,7 @@ This project helped me understand how CSS advanced properties are used in real-w
 
 ---
 
-# DAY 16 — Flexbox Deep Dive (Landing Page Project)
+### DAY 16 — Flexbox Deep Dive (Landing Page Project)
 
 This project is part of my **Full Stack Development (FSD) daily practice**.  
 On **Day 16**, I focused on mastering **CSS Flexbox advanced concepts** by building a **complete landing page layout** using Flexbox only.
@@ -208,7 +208,7 @@ The layout adjusts smoothly across different screen sizes using Flexbox properti
 
 ---
 
-# DAY 17 — CSS Grid Image Gallery
+### DAY 17 — CSS Grid Image Gallery
 
 This project is part of my **Full Stack Development (FSD) daily practice**.  
 On Day 17, I learned the **basics of CSS Grid** and built a **grid-based image gallery** using only HTML and CSS.
