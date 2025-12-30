@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  grid-template-areas:
+    "header"
+    "content"
+    "footer";
+  gap: 10px;
+}
+
+.header { grid-area: header; background: #333; color: white; padding: 20px; }
+.content { grid-area: content; padding: 20px; }
+.footer { grid-area: footer; background: #222; color: white; padding: 20px; }
+
+@media (max-width: 600px) {
+  .container {
+    grid-template-areas:
+      "header"
+      "content"
+      "footer";
+  }
+}
