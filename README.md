@@ -241,10 +241,84 @@ A clean and responsive image gallery created using **CSS Grid**.
 
 ---
 
-## 🛠️ Technologies Used
+### DAY 18 — CSS Grid Advanced + Responsive Design
 
-- HTML5
-- CSS3 (Advanced Basics)
+This project is part of my **Full Stack Development (FSD) daily learning journey**.  
+On Day 18, I focused on **advanced CSS Grid concepts** and the **basics of responsive design**.
+
+---
+
+## 📌 Topics Covered
+
+### ✅ CSS Grid Advanced
+- `grid-template-areas`
+- `align-content`
+- `justify-content`
+- Nested Grids
+- Grid + Flexbox combination
+
+### ✅ Responsive Design (Introduction)
+- Media Queries
+- Responsive Breakpoints
+- Mobile-first thinking (intro)
+
+---
+
+## 🛠️ Small Project Description
+
+### 📂 Project: Responsive 3-Section Website Layout
+
+A simple responsive website layout built using:
+- **CSS Grid for page structure**
+- **Flexbox for internal alignment**
+- **Media Queries for responsiveness**
+
+### 🔹 Sections Included:
+- Header
+- Main Content
+- Footer
+
+The layout adapts properly on:
+- 📱 Mobile
+- 💻 Desktop
+
+---
+
+### DAY-19: Responsive Navbar & Hero Section
+
+This project is part of my **Full Stack Development (FSD) daily practice**.
+
+In this project, I learned and implemented **responsive design concepts** by building a fully responsive **navbar with hamburger menu** and a **hero section** that works smoothly on mobile, tablet, and desktop screens.
+
+---
+
+## 🚀 Live Concepts Used
+
+### ✅ Responsive Design (Deep)
+- Mobile-first design approach
+- Media queries for tablet & desktop
+- Responsive layout structure
+
+### ✅ Navbar
+- Responsive navigation bar
+- Hamburger menu for mobile view
+- Horizontal menu for desktop view
+
+### ✅ Hero Section
+- Responsive text using modern CSS units
+- Call-to-action button
+- Clean and simple layout
+
+### ✅ Images & Fonts
+- Fluid images using `max-width: 100%`
+- Responsive font sizing using `clamp()`
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript (Basic DOM manipulation)**
 
 ---
 
