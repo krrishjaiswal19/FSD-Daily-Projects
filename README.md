@@ -100,7 +100,7 @@ The goal of this repository is to:
   - absolute  
 - Understood z-index and stacking order  
 
-#### Small Project:
+## Small Project:
 - Built a layout practice page  
 - Created a fixed header using `position: fixed`  
 - Designed 3 content sections below the header  
@@ -124,7 +124,7 @@ This project helped me understand how real web page layouts are structured using
 - Created 3–6 cards aligned neatly with proper spacing  
 - Improved understanding of alignment on both main axis and cross axis  
 
-#### Small Project:
+## Small Project:
 - Flexbox Cards Layout  
 - Responsive design using `flex-wrap`  
 - Clean spacing using `gap`  
@@ -162,7 +162,7 @@ On **Day 15**, I focused on **CSS Advanced Basics** and built a **stylish card U
 
 ## 🎨 Project Overview
 
-### Stylish Card Component
+# Stylish Card Component
 A clean and modern card UI with:
 - Rounded corners
 - Smooth hover animation
@@ -182,7 +182,7 @@ On **Day 16**, I focused on mastering **CSS Flexbox advanced concepts** by build
 
 ## 📌 Topics Covered
 
-### 🔹 CSS Flexbox Deep Dive
+#🔹 CSS Flexbox Deep Dive
 - display: flex
 - justify-content (all variations)
 - align-items vs align-content
@@ -196,10 +196,10 @@ On **Day 16**, I focused on mastering **CSS Flexbox advanced concepts** by build
 
 ## 🛠️ Project Description
 
-### 🔹 Flexbox Landing Page Layout
+# 🔹 Flexbox Landing Page Layout
 This project is a **fully responsive landing page layout** created using **pure HTML and CSS (Flexbox)**.
 
-### Sections Included:
+# Sections Included:
 - Header (Navbar with logo & menu)
 - Hero Section (Perfectly centered content)
 - Card Section (Responsive Flexbox cards)
@@ -217,7 +217,7 @@ On Day 17, I learned the **basics of CSS Grid** and built a **grid-based image g
 
 ## 🚀 What I Learned
 
-### CSS Grid Concepts
+# CSS Grid Concepts
 - Grid container & grid items
 - `display: grid`
 - `grid-template-columns` & `grid-template-rows`
@@ -232,7 +232,7 @@ On Day 17, I learned the **basics of CSS Grid** and built a **grid-based image g
 
 A clean and responsive image gallery created using **CSS Grid**.
 
-### Features:
+# Features:
 - 3-column grid layout
 - Equal width columns using `fr` unit
 - Proper spacing using `gap`
@@ -250,14 +250,14 @@ On Day 18, I focused on **advanced CSS Grid concepts** and the **basics of respo
 
 ## 📌 Topics Covered
 
-### ✅ CSS Grid Advanced
+# ✅ CSS Grid Advanced
 - `grid-template-areas`
 - `align-content`
 - `justify-content`
 - Nested Grids
 - Grid + Flexbox combination
 
-### ✅ Responsive Design (Introduction)
+# ✅ Responsive Design (Introduction)
 - Media Queries
 - Responsive Breakpoints
 - Mobile-first thinking (intro)
@@ -266,14 +266,14 @@ On Day 18, I focused on **advanced CSS Grid concepts** and the **basics of respo
 
 ## 🛠️ Small Project Description
 
-### 📂 Project: Responsive 3-Section Website Layout
+# 📂 Project: Responsive 3-Section Website Layout
 
 A simple responsive website layout built using:
 - **CSS Grid for page structure**
 - **Flexbox for internal alignment**
 - **Media Queries for responsiveness**
 
-### 🔹 Sections Included:
+# 🔹 Sections Included:
 - Header
 - Main Content
 - Footer
@@ -294,31 +294,78 @@ In this project, I learned and implemented **responsive design concepts** by bui
 
 ## 🚀 Live Concepts Used
 
-### ✅ Responsive Design (Deep)
+# ✅ Responsive Design (Deep)
 - Mobile-first design approach
 - Media queries for tablet & desktop
 - Responsive layout structure
 
-### ✅ Navbar
+# ✅ Navbar
 - Responsive navigation bar
 - Hamburger menu for mobile view
 - Horizontal menu for desktop view
 
-### ✅ Hero Section
+# ✅ Hero Section
 - Responsive text using modern CSS units
 - Call-to-action button
 - Clean and simple layout
 
-### ✅ Images & Fonts
+# ✅ Images & Fonts
 - Fluid images using `max-width: 100%`
 - Responsive font sizing using `clamp()`
 
 ---
 
+### DAY 22 — CSS Transitions & Hover Effects 🎨
+
+This project is part of my **Full Stack Development (FSD) daily practice**.  
+On **Day 22**, I focused on learning and practicing **CSS Transitions and Hover Animations** by building animated buttons and hover-effect cards.
+
+---
+
+## 📌 Topics Covered
+
+# CSS Transitions
+- transition-property  
+- transition-duration  
+- transition-delay  
+- transition shorthand  
+- smooth hover effects  
+
+# Hover Animations
+- Button hover animations  
+- Card hover animations  
+- transform (scale, translateY)  
+- box-shadow effects  
+
+---
+
+## 🧩 Small Projects Included
+
+# 🔘 Animated Buttons (3)
+1. **Color Change Button**  
+   - Smooth background-color transition on hover  
+
+2. **Scale + Shadow Button**  
+   - Button zooms slightly with shadow on hover  
+
+3. **Slide Button**  
+   - Button moves upward using translateY on hover  
+
+---
+
+# 🃏 Hover Cards (2)
+1. **Lift Card Effect**  
+   - Card moves upward with shadow on hover  
+
+2. **Zoom Card Effect**  
+   - Card slightly scales up on hover  
+
+---
+
 ## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript (Basic DOM manipulation)**
+- HTML5
+- CSS3 (Transitions & Hover Effects) 
+- JavaScript (Basic DOM manipulation)**
 
 ---
 
