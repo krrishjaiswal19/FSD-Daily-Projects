@@ -12,7 +12,7 @@ The goal of this repository is to:
 
 ## 📅 Daily Projects
 
-### DAY-1: Personal Bio Page (HTML)
+# DAY-1: Personal Bio Page (HTML)
 - Learned HTML basics: tags, elements, attributes
 - Headings, paragraphs, links, images
 - Lists (ul, ol), buttons, hr, br
@@ -20,7 +20,7 @@ The goal of this repository is to:
 
 ---
 
-### DAY-2: Registration Form Page
+# DAY-2: Registration Form Page
 - Input types
 - Textarea
 - Select dropdown
@@ -29,7 +29,7 @@ The goal of this repository is to:
 
 ---
 
-### DAY-3: Travel Website Homepage
+# DAY-3: Travel Website Homepage
 - div & span
 - Semantic tags (header, nav, footer, section, article)
 - iframe
@@ -37,21 +37,21 @@ The goal of this repository is to:
 
 ---
 
-### DAY-4: Student Marks Table Page
+# DAY-4: Student Marks Table Page
 - Table, tr, th, td
 - Colspan & rowspan
 - Forms + table combined
 
 ---
 
-### DAY-5: Mini Website Project
+# DAY-5: Mini Website Project
 - Used all HTML concepts learned during the week
 - Created a multi-page mini website
 - Strengthened HTML structure and linking
 
 ---
 
-### DAY-8: Media Page Project
+# DAY-8: Media Page Project
 - Anchor tag deep dive (download, mailto, target)
 - Image optimization (alt, title)
 - Audio & video tags
@@ -60,7 +60,7 @@ The goal of this repository is to:
 
 ---
 
-### DAY-9: Job Application Form Project
+# DAY-9: Job Application Form Project
 - Advanced form attributes:
   - required
   - minlength / maxlength
@@ -73,7 +73,7 @@ The goal of this repository is to:
 
 ---
 
-### DAY-10: CSS Styled Profile Page
+# DAY-10: CSS Styled Profile Page
 - Applied CSS to Day-1 Personal Bio Page
 - Learned CSS basics and Box Model
 - Designed a clean and centered profile card UI
@@ -82,7 +82,7 @@ The goal of this repository is to:
 
 ---
 
-### DAY-11: CSS Layout Practice Page  
+# DAY-11: CSS Layout Practice Page  
 - Learned CSS layout fundamentals  
 - Display property:
   - block
@@ -110,7 +110,7 @@ This project helped me understand how real web page layouts are structured using
 
 ---
 
-### DAY-12: CSS Flexbox Cards Layout
+# DAY-12: CSS Flexbox Cards Layout
 - Learned CSS Flexbox fundamentals for modern layouts  
 - Understood **flex container vs flex items**  
 - Worked with core Flexbox properties:
@@ -134,7 +134,7 @@ This project helped me understand how Flexbox is used in real-world layouts to b
 
 ---
 
-### DAY-15: CSS Advanced Basics – Stylish Card Component
+# DAY-15: CSS Advanced Basics – Stylish Card Component
 
 This project is part of my **Full Stack Development (FSD) daily practice**.  
 On **Day 15**, I focused on **CSS Advanced Basics** and built a **stylish card UI component** using modern CSS properties.
@@ -160,7 +160,7 @@ On **Day 15**, I focused on **CSS Advanced Basics** and built a **stylish card U
 
 ---
 
-## 🎨 Project Overview
+### 🎨 Project Overview
 
 # Stylish Card Component
 A clean and modern card UI with:
@@ -173,7 +173,7 @@ This project helped me understand how CSS advanced properties are used in real-w
 
 ---
 
-### DAY 16 — Flexbox Deep Dive (Landing Page Project)
+# DAY 16 — Flexbox Deep Dive (Landing Page Project)
 
 This project is part of my **Full Stack Development (FSD) daily practice**.  
 On **Day 16**, I focused on mastering **CSS Flexbox advanced concepts** by building a **complete landing page layout** using Flexbox only.
@@ -182,7 +182,7 @@ On **Day 16**, I focused on mastering **CSS Flexbox advanced concepts** by build
 
 ## 📌 Topics Covered
 
-#🔹 CSS Flexbox Deep Dive
+###🔹 CSS Flexbox Deep Dive
 - display: flex
 - justify-content (all variations)
 - align-items vs align-content
@@ -196,10 +196,10 @@ On **Day 16**, I focused on mastering **CSS Flexbox advanced concepts** by build
 
 ## 🛠️ Project Description
 
-# 🔹 Flexbox Landing Page Layout
+### 🔹 Flexbox Landing Page Layout
 This project is a **fully responsive landing page layout** created using **pure HTML and CSS (Flexbox)**.
 
-# Sections Included:
+### Sections Included:
 - Header (Navbar with logo & menu)
 - Hero Section (Perfectly centered content)
 - Card Section (Responsive Flexbox cards)
@@ -208,7 +208,7 @@ The layout adjusts smoothly across different screen sizes using Flexbox properti
 
 ---
 
-### DAY 17 — CSS Grid Image Gallery
+# DAY 17 — CSS Grid Image Gallery
 
 This project is part of my **Full Stack Development (FSD) daily practice**.  
 On Day 17, I learned the **basics of CSS Grid** and built a **grid-based image gallery** using only HTML and CSS.
@@ -217,7 +217,7 @@ On Day 17, I learned the **basics of CSS Grid** and built a **grid-based image g
 
 ## 🚀 What I Learned
 
-# CSS Grid Concepts
+### CSS Grid Concepts
 - Grid container & grid items
 - `display: grid`
 - `grid-template-columns` & `grid-template-rows`
@@ -232,7 +232,7 @@ On Day 17, I learned the **basics of CSS Grid** and built a **grid-based image g
 
 A clean and responsive image gallery created using **CSS Grid**.
 
-# Features:
+### Features:
 - 3-column grid layout
 - Equal width columns using `fr` unit
 - Proper spacing using `gap`
@@ -241,7 +241,7 @@ A clean and responsive image gallery created using **CSS Grid**.
 
 ---
 
-### DAY 18 — CSS Grid Advanced + Responsive Design
+# DAY 18 — CSS Grid Advanced + Responsive Design
 
 This project is part of my **Full Stack Development (FSD) daily learning journey**.  
 On Day 18, I focused on **advanced CSS Grid concepts** and the **basics of responsive design**.
@@ -250,14 +250,14 @@ On Day 18, I focused on **advanced CSS Grid concepts** and the **basics of respo
 
 ## 📌 Topics Covered
 
-# ✅ CSS Grid Advanced
+### ✅ CSS Grid Advanced
 - `grid-template-areas`
 - `align-content`
 - `justify-content`
 - Nested Grids
 - Grid + Flexbox combination
 
-# ✅ Responsive Design (Introduction)
+### ✅ Responsive Design (Introduction)
 - Media Queries
 - Responsive Breakpoints
 - Mobile-first thinking (intro)
@@ -266,14 +266,14 @@ On Day 18, I focused on **advanced CSS Grid concepts** and the **basics of respo
 
 ## 🛠️ Small Project Description
 
-# 📂 Project: Responsive 3-Section Website Layout
+### 📂 Project: Responsive 3-Section Website Layout
 
 A simple responsive website layout built using:
 - **CSS Grid for page structure**
 - **Flexbox for internal alignment**
 - **Media Queries for responsiveness**
 
-# 🔹 Sections Included:
+### 🔹 Sections Included:
 - Header
 - Main Content
 - Footer
@@ -284,7 +284,7 @@ The layout adapts properly on:
 
 ---
 
-### DAY-19: Responsive Navbar & Hero Section
+# DAY-19: Responsive Navbar & Hero Section
 
 This project is part of my **Full Stack Development (FSD) daily practice**.
 
@@ -294,28 +294,28 @@ In this project, I learned and implemented **responsive design concepts** by bui
 
 ## 🚀 Live Concepts Used
 
-# ✅ Responsive Design (Deep)
+### ✅ Responsive Design (Deep)
 - Mobile-first design approach
 - Media queries for tablet & desktop
 - Responsive layout structure
 
-# ✅ Navbar
+### ✅ Navbar
 - Responsive navigation bar
 - Hamburger menu for mobile view
 - Horizontal menu for desktop view
 
-# ✅ Hero Section
+### ✅ Hero Section
 - Responsive text using modern CSS units
 - Call-to-action button
 - Clean and simple layout
 
-# ✅ Images & Fonts
+### ✅ Images & Fonts
 - Fluid images using `max-width: 100%`
 - Responsive font sizing using `clamp()`
 
 ---
 
-### DAY 22 — CSS Transitions & Hover Effects 🎨
+# DAY 22 — CSS Transitions & Hover Effects 🎨
 
 This project is part of my **Full Stack Development (FSD) daily practice**.  
 On **Day 22**, I focused on learning and practicing **CSS Transitions and Hover Animations** by building animated buttons and hover-effect cards.
@@ -324,14 +324,14 @@ On **Day 22**, I focused on learning and practicing **CSS Transitions and Hover 
 
 ## 📌 Topics Covered
 
-# CSS Transitions
+### CSS Transitions
 - transition-property  
 - transition-duration  
 - transition-delay  
 - transition shorthand  
 - smooth hover effects  
 
-# Hover Animations
+### Hover Animations
 - Button hover animations  
 - Card hover animations  
 - transform (scale, translateY)  
@@ -341,7 +341,7 @@ On **Day 22**, I focused on learning and practicing **CSS Transitions and Hover 
 
 ## 🧩 Small Projects Included
 
-# 🔘 Animated Buttons (3)
+### 🔘 Animated Buttons (3)
 1. **Color Change Button**  
    - Smooth background-color transition on hover  
 
@@ -353,7 +353,7 @@ On **Day 22**, I focused on learning and practicing **CSS Transitions and Hover 
 
 ---
 
-# 🃏 Hover Cards (2)
+### 🃏 Hover Cards (2)
 1. **Lift Card Effect**  
    - Card moves upward with shadow on hover  
 
@@ -362,9 +362,28 @@ On **Day 22**, I focused on learning and practicing **CSS Transitions and Hover 
 
 ---
 
+# DAY 23 – CSS Keyframe Animations
+
+## Topics Learned
+- @keyframes
+- from → to
+- 0% → 100%
+- infinite animations
+- animation-fill-mode
+- animation-timing-function
+
+## Projects
+1. CSS Animated Loader
+2. CSS Bouncing Ball Animation
+
+## Learning Outcome
+Understood how to create smooth animations using CSS without JavaScript.
+
+---
+
 ## 🛠️ Technologies Used
 - HTML5
-- CSS3 (Transitions & Hover Effects) 
+- CSS3 (Keyframes Animation) 
 - JavaScript (Basic DOM manipulation)**
 
 ---
