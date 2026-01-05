@@ -381,10 +381,26 @@ Understood how to create smooth animations using CSS without JavaScript.
 
 ---
 
+# DAY-24 -JavaScript Basics  🚀
+
+## 📌 Description
+This repository contains my **Day 1 JavaScript practice code**.  
+Today I learned the basics of JavaScript input/output and simple calculations using `prompt()` and `console.log()`.
+
+---
+
+## 🧠 Topics Learned
+- Taking input using `prompt()`
+- Printing output using `console.log()`
+- Type conversion using `Number()`
+- Basic arithmetic operations
+
+---
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Keyframes Animation) 
-- JavaScript (Basic DOM manipulation)**
+- JavaScript (Basics)**
 
 ---
 
