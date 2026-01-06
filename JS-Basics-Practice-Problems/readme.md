@@ -38,16 +38,25 @@ Multiple conditions ko combine karne ke liye.
 let num = 10;
 
 if (num > 0) {
+
   console.log("Positive");
+  
 } else if (num < 0) {
+
   console.log("Negative");
+  
 } else {
+
   console.log("Zero");
+  
 }
 
 Logic samjho:
+
 Condition true → if
+
 False → else if
+
 Sab false → else
 
 ## 5. Switch Case
@@ -57,8 +66,13 @@ When fixed values ho.
 let day = 3;
 
 switch (day) {
+
   case 1: console.log("Monday"); break;
+  
   case 2: console.log("Tuesday"); break;
+  
   case 3: console.log("Wednesday"); break;
+  
   default: console.log("Invalid");
+  
 }
