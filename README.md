@@ -397,6 +397,53 @@ Today I learned the basics of JavaScript input/output and simple calculations us
 
 ---
 
+# DAY-25 — JavaScript Operators + Conditions
+
+## Overview
+
+Aaj maine JavaScript Operators, Conditional Statements aur DSA Mixed Problems (Arrays + Recursion) seekhe aur un par based small programs aur practice questions implement kiye.
+
+## Topics Covered
+🔹 JavaScript Operators
+
+Arithmetic Operators (+ - * / %)
+
+Comparison Operators (> < >= <= == ===)
+
+Logical Operators (&& || !)
+
+🔹 Conditional Statements
+
+if / else
+
+else if
+
+Nested if
+
+switch case
+
+## 🧠 JavaScript Small Programs
+### 1️⃣ Biggest of Three Numbers
+
+Teen numbers me se sabse bada number find karna using if-else.
+
+### 2️⃣ Grade Calculator
+
+Marks ke basis par grade calculate karna:
+
+A / B / C / Fail
+
+### 3️⃣ BMI Calculator
+
+BMI formula use karke body category find karna:
+
+Underweight
+
+Normal
+
+Overweight
+
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Keyframes Animation) 
