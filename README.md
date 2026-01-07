@@ -443,6 +443,51 @@ Normal
 
 Overweight
 
+---
+
+# DAY 26 – JavaScript Loops & Functions 🚀
+
+## 📌 Overview
+Aaj ke din maine JavaScript ke **loops** aur **functions** ko detail me sikha aur unka practical use karke small programs banaye. Is din ka main focus logic building aur code reusability par tha.
+
+---
+
+## 📚 Topics Covered
+
+### 🔁 JavaScript Loops
+- `for` loop  
+- `while` loop  
+- `do...while` loop  
+- Loop flow (initialization, condition, update)
+
+### 🧩 JavaScript Functions
+- Function declaration  
+- Parameters & return value  
+- Arrow functions  
+- Function reuse concept
+
+---
+
+## 🛠️ Practice Programs / Mini Projects
+
+### 1️⃣ Table Generator
+- Kisi bhi number ka table print karna using loop
+
+### 2️⃣ Sum of Even & Odd Numbers
+- 1 se N tak ke even aur odd numbers ka sum calculate karna
+
+### 3️⃣ Prime Number Check
+- Diya gaya number prime hai ya nahi check karna
+
+---
+
+## 🧠 Key Learnings
+- Loops se repetitive kaam easily ho jata hai  
+- Functions code ko reusable aur clean banate hain  
+- `return` ka use function se output lene ke liye hota hai  
+- Arrow functions short aur modern syntax provide karte hain  
+
+---
 
 ## 🛠️ Technologies Used
 - HTML5
