@@ -26,3 +26,117 @@ Output <br>
 ⚠ prompt se data string me aata hai. <br>
 Number banane ke liye: <br>
 `let num = Number(prompt("Enter number"));` <br>
+
+## Arithmetic Operators
+Used for mathematical calculations. <br>
+Operator	Meaning	Example <br>
+`+`  Add	    10 + 5 → 15 <br>
+`-`	 Subtract	10 - 5 → 5 <br>
+`*`	 Multiply	10 * 5 → 50 <br>
+`/`  Divide	    10 / 5 → 2 <br>
+`%`  Remainder	10 % 3 → 1 <br>
+`let a = 10, b = 3;`
+`console.log(a + b);`
+`console.log(a % b);`
+
+## Comparison Operators
+Used to compare two values (result → true / false) <br>
+Operator	Meaning <br>
+`>`	  greater than  <br>
+`<`	  less than <br>
+`>=`  greater or equal <br>
+`<=`  less or equal <br>
+`==`  equal (value) <br>
+`===` equal (value + type) <br>
+`console.log(5 == "5");`   // true <br>
+`console.log(5 === "5");` // false <br>
+
+## Logical Operators
+Multiple conditions ko combine karne ke liye. <br>
+Operator	Meaning <br>
+`&&`	AND  <br>
+  `           
+`!`	    NOT  
+
+`let age = 20;`  
+
+`let hasID = true;` 
+
+`console.log(age >= 18 && hasID); `// true <br>
+
+## if / else / nested if
+`let num = 10;` <br>
+`if (num > 0) {`  <br>
+`  console.log("Positive");` <br>
+`} else if (num < 0) {` <br>
+`  console.log("Negative");`  <br>
+`} else {` <br>
+  `console.log("Zero");` <br>
+`}` <br>
+Logic samjho: <br>
+Condition true → if <br>
+False → else if <br>
+Sab false → else <br>
+
+## Switch Case
+When fixed values ho. <br>
+`let day = 3;` <br>
+`switch (day) {` <br>
+  `case 1: console.log("Monday"); break;` <br>
+  `case 2: console.log("Tuesday"); break;` <br>
+  `case 3: console.log("Wednesday"); break;` <br>
+  `default: console.log("Invalid");`<br>
+  `}`
+ 
+## JavaScript Loops
+### for loop <br>
+Use kab karte hain? <br>
+Jab hume pehle se pata ho loop kitni baar chalega. <br>
+Syntax (samajhne ke liye): <br>
+`for (start; condition; update) {` <br>
+  // code <br>
+`}`<br>
+Example: 1 se 5 print karo <br>
+`for (let i = 1; i <= 5; i++) {` <br>
+  `console.log(i);` <br>
+`}` <br>
+Flow samjho: <br>
+start → condition check → code → update → repeat 
+
+### while loop <br>
+Use kab? <br>
+Jab iterations fixed na ho, sirf condition pata ho. <br>
+`let i = 1;` <br>
+`while (i <= 5) {` <br>
+  `console.log(i);` <br>
+  `i++;` <br>
+`}` <br>
+⚠️ `i++` bhool gaye to infinite loop ban jayega. <br>
+### do...while loop <br>
+Special baat: <br>
+Code kam se kam 1 baar zaroor chalega. <br>
+`let i = 1;` <br>
+`do {` <br>
+  `console.log(i);` <br>
+  `i++;` <br>
+`} while (i <= 5);` <br>
+## Functions (Most Important Concept) <br> 
+Function kya hota hai? <br>
+Function ek machine jaisa hota hai: <br>
+input leta hai <br>
+kaam karta hai <br>
+output deta hai <br>
+### Normal Function <br>
+`function add(a, b) { `<br>
+ ` return a + b; `<br>
+`}` <br>
+`console.log(add(5, 3));` // 8 <br>
+Breakdown: <br>
+a, b → parameters <br>
+return → result bhejta hai <br>
+### Arrow Function (Short & Modern) <br>
+`const add = (a, b) => {` <br>
+  `return a + b;` <br>
+`};` <br>
+One-line version: <br>
+`const add = (a, b) => a + b;` <br>
