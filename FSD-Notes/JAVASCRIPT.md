@@ -140,3 +140,67 @@ return → result bhejta hai <br>
 `};` <br>
 One-line version: <br>
 `const add = (a, b) => a + b;` <br>
+# FSD – JavaScript Strings (Deep)
+## String Traversal
+Traversal ka matlab: string ke har character par ek-ek karke jana. <br> <br>
+`let str = "hello"; `<br>
+`for (let i = 0; i < str.length; i++) {` <br>
+  `console.log(str[i]);` <br>
+`}` <br> <br>
+👉 str[i] se ith character milta hai <br>
+👉 length batata hai total characters <br>
+## length <br>
+`let name = "Javascript";` <br>
+`console.log(name.length);` // 10 <br> <br>
+👉 spaces bhi count hote hain <br>
+## toUpperCase() / toLowerCase() <br>
+`let s = "HeLLo";`<br>
+`console.log(s.toUpperCase());` // HELLO <br>
+`console.log(s.toLowerCase());` // hello <br> <br>
+👉 original string change nahi hoti (strings are immutable) <br>
+## let str = "javascript"; <br>
+`console.log(str.slice(0, 4)); `     // java <br>
+`console.log(str.substring(0, 4)); ` // java <br> <br>
+Difference: <br>
+slice negative index accept karta hai <br>
+substring negative index ignore karta hai <br> <br>
+`str.slice(-4);`      // script <br>
+`str.substring(-4);`  // javascript <br>
+## split() & join() <br>
+`let str = "hello world";` <br>
+`let arr = str.split(" ");` <br>
+`console.log(arr);` // ["hello", "world"] <br>
+`let joined = arr.join("-");` <br>
+`console.log(joined);` // hello-world <br> <br>
+👉 string → array → string conversion ke liye use hota hai <br>
+## includes() & indexOf() <br>
+`let str = "javascript";` <br>
+`console.log(str.includes("script"));` // true <br>
+`console.log(str.indexOf("a"));` // 1 <br>
+`console.log(str.indexOf("z"));` // -1 <br> <br>
+👉 -1 ka matlab element nahi mila <br>
+## Practice Problems <br>
+### Reverse String <br>
+`function reverseString(str) {` <br>
+  `let rev = "";` <br>
+  `for (let i = str.length - 1; i >= 0; i--) { `<br>
+    `rev += str[i];` <br>
+  `} `<br>
+  `return rev;` <br>
+`}` <br>
+### Count Vowels <br>
+`function countVowels(str) {` <br>
+  `let count = 0;` <br>
+  `let vowels = "aeiouAEIOU";` <br>
+  `for (let ch of str) {` <br>
+    `if (vowels.includes(ch)) {` <br>
+     ` count++;` <br>
+    `}` <br>
+ ` }` <br>
+  `return count;` <br>
+`}` <br>
+### Palindrome Check <br>
+`function isPalindrome(str) {` <br>
+  `let rev = str.split("").reverse().join("");` <br>
+  `return str === rev;`<br>
+`}`<br>
