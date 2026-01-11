@@ -204,3 +204,85 @@ substring negative index ignore karta hai <br> <br>
   `let rev = str.split("").reverse().join("");` <br>
   `return str === rev;`<br>
 `}`<br>
+# FSD – JavaScript Arrays (Deep) <br>
+## Array Traversing <br>
+Meaning: Array ke har element par ek-ek karke jaana. <br> <br>
+`let arr = [10, 20, 30, 40];` <br>
+// using for loop <br>
+`for (let i = 0; i < arr.length; i++) {` <br>
+  `console.log(arr[i]);` <br>
+`}` <br> <br>
+// using for...of <br>
+`for (let val of arr) {` <br>
+  `console.log(val);`  <br>
+`}`  <br> <br>
+Yaad rakho: <br>
+`arr.length` → total elements <br>
+`i` → index <br> 
+`arr[i]` → element <br>
+## push, pop, shift, unshift <br>
+`let arr = [1, 2, 3];` <br>
+`arr.push(4);`    // end me add → [1,2,3,4] <br>
+`arr.pop();`       // end se remove → [1,2,3] <br>
+`arr.unshift(0);`  // start me add → [0,1,2,3] <br>
+`arr.shift();`     // start se remove → [1,2,3] <br> <br>
+Short rule: <br>
+push / pop → end <br>
+shift / unshift → start <br>
+## slice vs splice (IMPORTANT) <br>
+`let arr = [1,2,3,4,5];` <br>
+`let a = arr.slice(1,4);` <br> 
+`console.log(a);`   // [2,3,4] <br>
+`console.log(arr);` // original SAME <br>
+`let b = arr.splice(1,2);` <br>
+`console.log(b);`   // [2,3] <br>
+`console.log(arr);` // original CHANGE → [1,4,5] <br> <br>
+Method	Original array <br>
+slice	❌ change nahi <br>
+splice	✅ change hota <br>
+## concat (arrays jodna) <br>
+`let a = [1,2];` <br>
+`let b = [3,4];` <br>
+`let c = a.concat(b);` <br>
+console.log(c);` // [1,2,3,4] <br>
+## Practice Problems <br>
+### Sum of Array <br>
+`let arr = [1,2,3,4]; `<br>
+`let sum = 0;` <br>
+`for (let num of arr) {` <br>
+  `sum += num;` <br>
+`}` <br>
+`console.log(sum);` // 10 <br>
+### Max / Min <br>
+`let arr = [5,2,9,1];` <br>
+`let max = arr[0];` <br>
+`let min = arr[0];`<br>
+`for (let i = 1; i < arr.length; i++) { `<br>
+  `if (arr[i] > max) max = arr[i];` <br>
+  `if (arr[i] < min) min = arr[i];` <br>
+`}` <br>
+`console.log(max, min);` // 9 1 <br>
+### Remove Duplicates <br>
+`let arr = [1,2,2,3,1];` <br>
+`let unique = [];` <br>
+`for (let num of arr) {` <br>
+  `if (!unique.includes(num)) {` <br>
+   `unique.push(num);` <br>
+  `}` <br>
+`}` <br>
+`console.log(unique);` // [1,2,3] <br>
+> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.<br>
+><br>
+>> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. <br>
+## Tables <br>
+| Left columns  | Right columns | <br> <br>
+| left foo      | right foo     | <br>
+| left bar      | right bar     | <br>
+| left baz      | right baz     | <br>
+## Blocks of code <br>
+``` <br>
+`let message = 'Hello world';` <br>
+`alert(message);` <br>
+``` <br>
+## Inline code <br>
+This web site is using `markedjs/marked`. <br>
