@@ -468,16 +468,29 @@ Aaj ke din maine JavaScript ke **loops** aur **functions** ko detail me sikha au
 
 ---
 
-## 🛠️ Practice Programs / Mini Projects
+# DAY 30 - JavaScript Arrays (Deep)
 
-### 1️⃣ Table Generator
-- Kisi bhi number ka table print karna using loop
+Concepts Learned:
 
-### 2️⃣ Sum of Even & Odd Numbers
-- 1 se N tak ke even aur odd numbers ka sum calculate karna
-
-### 3️⃣ Prime Number Check
-- Diya gaya number prime hai ya nahi check karna
+- Array Traversing
+- push(), pop()
+- shift(), unshift()
+- slice() vs splice()
+- concat()
+- Practice Problems:
+- Sum of array elements
+- Find maximum and minimum
+- Remove duplicate elements
+🧩 Small Project – Array Analyzer <br>
+A small JavaScript project that analyzes an array and provides: <br>
+Total Sum <br>
+Maximum value  <br>
+Minimum value <br>
+Unique elements (duplicates removed) <br>
+Features: <br>
+Uses loops and conditions <br>
+Improves array logic understanding <br>
+Console-based output <br>
 
 ---
 
