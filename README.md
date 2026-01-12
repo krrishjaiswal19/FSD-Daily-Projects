@@ -502,6 +502,8 @@ Console-based output <br>
 
 ---
 
+# DAY-31 
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Keyframes Animation) 
