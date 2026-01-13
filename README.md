@@ -502,7 +502,7 @@ Console-based output <br>
 
 ---
 
-# DAY-31 
+# DAY-32
 
 ## 🛠️ Technologies Used
 - HTML5
