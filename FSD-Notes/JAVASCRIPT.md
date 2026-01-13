@@ -281,8 +281,66 @@ console.log(c);` // [1,2,3,4] <br>
 | left baz      | right baz     | <br>
 ## Blocks of code <br>
 ``` <br>
-`let message = 'Hello world';` <br>
-`alert(message);` <br>
-``` <br>
-## Inline code <br>
-This web site is using `markedjs/marked`. <br>
+# FSD – JavaScript Array Methods (IMPORTANT) <br>
+## forEach() – Sirf loop chalane ke liye <br>
+👉 return kuch nahi karta, bas har element par kaam karta hai. <br>
+Syntax <br>
+`arr.forEach((item, index) => {` <br>
+  // kaam <br> 
+`});` <br> <br>
+Example <br>
+`let arr = [10, 20, 30];` <br>
+`arr.forEach((num) => {` <br>
+  `console.log(num * 2);` <br>
+`});` <br> <br>
+🧠 Samjho: <br>
+forEach = sirf print / update / side-effect <br>
+naye array ke liye ❌ <br>
+## map() – New array banana <br>
+👉 Har element ko change karke naya array deta hai. <br>
+Syntax <br>
+`let newArr = arr.map((item) => {` <br>
+  `return item;` <br>
+`});`<br> <br>
+Practice – Double Numbers <br>
+`let nums = [1, 2, 3, 4];` <br>
+`let doubled = nums.map((n) => {` <br>
+  `return n * 2;` <br>
+`});` <br>
+`console.log(doubled);` // [2,4,6,8] <br>
+🧠 Rule: <br> <br>
+map = same length ka new array <br>
+original array change ❌ <br>
+## filter() – Condition ke basis par channa <br>
+👉 Sirf wahi elements jo condition pass karein. <br>
+Syntax <br>
+`let newArr = arr.filter((item) => {` <br>
+  `return condition;`<br>
+`});` <br> <br>
+Practice – Even Numbers<br>
+`let nums = [1,2,3,4,5,6];` <br>
+`let evens = nums.filter((n) => {` <br>
+  `return n % 2 === 0;` <br>
+`});` <br>
+`console.log(evens);` // [2,4,6]<br> <br>
+🧠 Rule: <br>
+`filter = condition true → element add <br>
+`false → ignore <br>
+## reduce() – Sabko ek value me reduce karna <br>
+👉 Sum, total, max, min, object banana etc. <br>
+Syntax <br>
+`arr.reduce((acc, curr) => {` <br>
+  `return updatedAcc;` <br>
+`}, initialValue);` <br> <br>
+Practice – Sum <br> 
+`let nums = [10, 20, 30];` <br>
+`let sum = nums.reduce((acc, curr) => {` <br>
+  `return acc + curr;` <br>
+`}, 0);` <br>
+`console.log(sum);` // 60 <br> <br>
+Dry Run <br>
+acc	curr	result <br>
+0	10	10 <br> 
+10	20	30 <br>
+30	30	60 <br>
+🧠 acc = total, curr = current value <br>
