@@ -280,7 +280,6 @@ console.log(c);` // [1,2,3,4] <br>
 | left bar      | right bar     | <br>
 | left baz      | right baz     | <br>
 ## Blocks of code <br>
-``` <br>
 # FSD – JavaScript Array Methods (IMPORTANT) <br>
 ## forEach() – Sirf loop chalane ke liye <br>
 👉 return kuch nahi karta, bas har element par kaam karta hai. <br>
