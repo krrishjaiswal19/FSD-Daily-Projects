@@ -468,6 +468,46 @@ Aaj ke din maine JavaScript ke **loops** aur **functions** ko detail me sikha au
 
 ---
 
+# DAY 29 — JavaScript Strings (Deep) + DSA Linked List Intro
+
+This day focuses on **deep JavaScript string operations** and the **introduction to Linked Lists** in Data Structures & Algorithms.  
+The goal is to strengthen logic building, string manipulation skills, and understand the foundation of Linked Lists.
+
+---
+
+## 🔹 FSD – JavaScript Strings (Deep)
+
+### 📘 Topics Learned
+- String traversal using loops
+- `length` property
+- `toUpperCase()` / `toLowerCase()`
+- `slice()` vs `substring()`
+- `split()` and `join()`
+- `includes()` and `indexOf()`
+
+---
+
+### 🧪 Practice Problems
+1. Reverse a string  
+2. Count vowels in a string  
+3. Palindrome check  
+
+---
+
+### 🛠 Mini Project – String Utility Tool
+
+**Features:**
+- Reverse string
+- Count vowels
+- Check palindrome
+
+**Concept Used:**
+- String traversal
+- Built-in string methods
+- Functions and logic building
+
+---
+
 # DAY 30 - JavaScript Arrays (Deep)
 
 Concepts Learned:
@@ -501,6 +541,23 @@ Console-based output <br>
 - Arrow functions short aur modern syntax provide karte hain  
 
 ---
+
+# DAY 31 — JavaScript Array Methods + DSA Linked List
+
+This repository contains my **DAY 31 learning and practice work** as part of my **Full Stack Development (FSD) + DSA** journey.
+
+---
+
+## 🚀 FSD – JavaScript Array Methods (IMPORTANT)
+
+### 📌 Concepts Learned
+- `forEach()` – iterate over array (no return)
+- `map()` – transform elements and return new array
+- `filter()` – filter elements based on condition
+- `reduce()` – reduce array into single value (sum, total, etc.)
+
+---
+
 
 # DAY-32
 
