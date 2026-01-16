@@ -343,3 +343,37 @@ acc	curr	result <br>
 10	20	30 <br>
 30	30	60 <br>
 🧠 acc = total, curr = current value <br>
+# FSD (DOM Manipulation Start) <br>
+## DOM kya hota hai? <br>
+DOM (Document Object Model) browser ke andar HTML ka tree structure hota hai. <br>
+JavaScript DOM ke through HTML elements ko read, update, delete, style kar  sakta hai. <br>
+Socho: <br>
+HTML = Body <br>
+DOM = Skeleton (tree) <br>
+JS = Brain (control) <br>
+## getElementById <br>
+`<p id="msg">Hello</p>` <br>
+`let el = document.getElementById("msg");` <br>
+`console.log(el.innerText);` <br> <br>
+Sirf id se element pakadta hai <br>
+Fast aur simple <br>
+## querySelector <br>
+`<p class="text">Hi</p>` <br>
+`let el = document.querySelector(".text");` <br> <br>
+CSS selector use karta hai <br>
+#id, .class, tag sab chalega <br>
+Pehla matching element deta hai <br>
+## innerText vs innerHTML <br>
+`<div id="box"><b>Hello</b></div>` <br>
+`let box = document.getElementById("box");`<br>
+`box.innerText = "<i>Hi</i>"; `  // Text ban jaata hai <br>
+`box.innerHTML = "<i>Hi</i>";`  // HTML render hota hai <br> <br>
+Difference (simple): <br>
+innerText → sirf text<br>
+innerHTML → HTML + tags <br>
+## Style change using JS <br>
+`let box = document.getElementById("box");` <br>
+`box.style.color = "white";` <br>
+`box.style.backgroundColor = "blue";` <br>
+`box.style.padding = "10px";` <br>  <br>
+⚠️ CSS property camelCase me likhte hain (background-color → backgroundColor)
