@@ -377,3 +377,69 @@ innerHTML → HTML + tags <br>
 `box.style.backgroundColor = "blue";` <br>
 `box.style.padding = "10px";` <br>  <br>
 ⚠️ CSS property camelCase me likhte hain (background-color → backgroundColor)
+# FSD – DOM Events (Basics se Clear) <br>
+## Event kya hota hai? <br>
+Event ka matlab hota hai user ka koi action <br>
+Jaise: <br>
+button click <br>
+input box me type karna <br>
+value change hona <br>
+JavaScript in events ko sun (listen) karti hai aur phir koi kaam karti hai. <br>
+## onclick (Basic method) <br>
+### Meaning <br>
+Button par click hote hi function chale.   <br>
+### Example  <br>
+`<button onclick="sayHello()">Click Me</button>`  <br>
+`<script>`  <br>
+`function sayHello() { `  <br>
+  `alert("Hello User!"); ` <br>
+`}`<br>
+</script> <br>
+### Samjho <br>
+User ne button click kiya <br>
+onclick trigger hua <br>
+`sayHello()` function chala <br>
+⚠️ Note: Ye old style hai, real projects me kam use hota hai. <br>
+## addEventListener (MOST IMPORTANT) <br>
+ `element.addEventListener("event", function)` <br>
+ ### Example <br>
+`<button id="btn">Click</button>` <br>
+`<script>`<br>
+`let btn = document.getElementById("btn");` <br>
+`btn.addEventListener("click", function () {` <br>
+  `alert("Button clicked");` <br>
+`});` <br>
+</script> <br>
+# Kyun better hai? <br>
+Multiple events add kar sakte ho <br>
+HTML aur JS alag rehte hain <br>
+Industry standard <br>
+## Input Events <br>
+(a) input event <br>
+Har ek character type hone par trigger hota hai. <br> <br>
+`<input id="name" />` <br>
+`<script>` <br>
+`let input = document.getElementBy Id("name");` <br>
+`input.addEventListener("input", function () {` <br>
+  `console.log(input.value);` <br>
+`});` <br>
+</script> <br>
+📌 Use case: <br>
+Live search <br>
+Live character count <br>
+(b) keyup <br> 
+Key chhodte hi trigger hota hai. <br> <br>
+`input.addEventListener("keyup", function () {` <br>
+ `console.log("Key released");` <br>
+ ` });` <br>
+
+(c) change <br> 
+Tab trigger hota hai jab: <br>
+
+input se bahar click karo <br>
+ya value final ho jaaye <br> <br>
+`input.addEventListener("change", function () {` <br>
+  `console.log("Value changed");` <br>
+`});` <br> <br>
+📌 Mostly: <br> 
+dropdown (select) ke sath <br>
