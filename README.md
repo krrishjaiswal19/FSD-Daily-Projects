@@ -559,7 +559,86 @@ This repository contains my **DAY 31 learning and practice work** as part of my 
 ---
 
 
-# DAY-32
+# DAY 32 — FSD (DOM Manipulation Basics)
+## Topics Covered
+What is DOM
+getElementById()
+querySelector()
+innerText vs innerHTML
+Style change using JavaScript
+Small Project — DOM Color Changer
+## Description:
+Button click par text aur color dynamically change hota hai using JavaScript DOM.
+### Features:
+DOM element selection
+Button click event
+Text change
+Color/style change using JS
+Concepts Practiced
+DOM structure understanding
+Element selection
+Text manipulation
+Inline CSS via JavaScript
+
+# DAY 33 — FSD: DOM Events (JavaScript)
+##  Topics Covered
+DOM Events Introduction
+onclick event
+addEventListener
+Input events
+keyup event
+change event
+📖 What I Learned
+### DOM Events
+DOM Events user ke actions ko handle karne ke liye use hote hain jaise:
+Button click
+Input field me typing
+Value change hona
+JavaScript in events par react karke dynamic behavior provide karti hai.
+### onclick
+HTML element par click hote hi function execute hota hai.
+Ye ek basic method hai, lekin large projects me recommended nahi hota.
+### addEventListener (Preferred Method)
+Modern aur flexible approach
+Same element par multiple events handle kar sakte hain
+HTML aur JavaScript separation maintain hota hai
+### Input Events
+input → Har character type hone par trigger hota hai
+keyup → Key release hone par trigger hota hai
+change → Jab input ki value final ho jaati hai (blur ke baad)
+
+# DAY 36 — JavaScript Objects (Deep)
+## Topics Cover
+### Object CreationObject literal
+new Object() method
+Basic constructor function (intro)
+### Accessing Object Properties
+Dot notation (object.key)
+Bracket notation (object["key"])
+Dynamic key access using variables
+### Add / Update / Delete Properties
+Add new property to object
+Update existing property value
+Delete property using delete keyword
+### Nested Objects
+Object ke andar object structure
+Accessing nested properties using dot notation
+### Object Methods
+Function inside object
+Using this keyword to access current object data
+Real-life method usage (total, percentage, result)
+### Looping Through Objects
+for...in loop
+Accessing keys and values dynamically
+## Practice Work
+Student object created with:
+name
+marks
+result
+Object properties access using dot & bracket notation
+Looping through student object using for...in
+
+---
 
 ## 🛠️ Technologies Used
 - HTML5
