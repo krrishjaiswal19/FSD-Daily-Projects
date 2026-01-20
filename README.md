@@ -640,6 +640,23 @@ Looping through student object using for...in
 
 ---
 
+DAY 37 — JavaScript Object + Array Combo
+📌 Topics Covered
+Array of Objects
+Real-life data modeling (Student records)
+Object Destructuring (basic)
+Spread Operator (basic)
+🧠 Practice
+Student list using array of objects
+Total & percentage calculation from marks array
+🧩 Mini Project
+Student List Manager (Console Based)
+Add student details (name, marks)
+Calculate total marks
+Calculate percentage
+Store structured data as objects in an array
+🛠 Tech Stack
+JavaScript (ES6
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Keyframes Animation) 
