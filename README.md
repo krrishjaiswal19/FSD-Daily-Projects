@@ -640,23 +640,46 @@ Looping through student object using for...in
 
 ---
 
-DAY 37 — JavaScript Object + Array Combo
-📌 Topics Covered
+# DAY 37 — JavaScript Object + Array Combo
+## Topics Covered
 Array of Objects
 Real-life data modeling (Student records)
 Object Destructuring (basic)
 Spread Operator (basic)
-🧠 Practice
+## Practice
 Student list using array of objects
 Total & percentage calculation from marks array
-🧩 Mini Project
+## Mini Project
 Student List Manager (Console Based)
 Add student details (name, marks)
 Calculate total marks
 Calculate percentage
 Store structured data as objects in an array
-🛠 Tech Stack
+## Tech Stack
 JavaScript (ES6
+
+---
+
+# DAY 38 – DOM Advanced (Create / Remove / Update)
+## Topics Covered
+createElement() – dynamically HTML element banana
+append() / appendChild() – element ko DOM me add karna
+remove() / removeChild() – element delete karna
+classList – add, remove, toggle classes
+## Small Project: Dynamic List App
+Features:
+Input se list item add
+Har item ke saath delete button
+Button click par item remove
+Pure JavaScript DOM manipulation (no library)
+## Concepts Used
+DOM selection (getElementById)
+Event handling (onclick)
+Dynamic element creation
+Real-time UI update
+
+---
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Keyframes Animation) 
