@@ -680,10 +680,88 @@ Real-time UI update
 
 ---
 
+# DAY 39 — FSD: DOM & Form Handling
+
+## 📌 Overview
+This session focused on handling HTML forms using JavaScript, understanding form submission behavior, and implementing client-side validation using DOM manipulation.
+
+---
+
+## 📘 Topics Covered
+- Form `submit` event
+- `preventDefault()` method
+- Reading input values from form fields
+- Client-side validation using JavaScript
+- Basic DOM manipulation
+
+---
+
+## 🧠 Learning Outcomes
+
+### Form Submit Event
+- Learned how to handle form submission using the `submit` event.
+- Understood the default browser behavior of form submission.
+
+### preventDefault()
+- Used `preventDefault()` to stop page reload on form submission.
+- Enabled custom validation logic before processing form data.
+
+### Input Value Handling
+- Accessed user input using `input.value`.
+- Stored and processed Name, Email, and Marks in JavaScript.
+
+### JavaScript Validation
+- **Name Validation:** Required field check
+- **Email Validation:** Basic format check using `@`
+- **Marks Validation:** Range check (0–100)
+
+---
+
+## 🛠️ Small Project: Form Validation App
+
+### Features
+- Input fields for Name, Email, and Marks
+- Client-side validation before form submission
+- Error alerts for invalid inputs
+- Success message for valid submission
+- No page reload on submit
+
+---
+
+# DAY 40 — DOM + LocalStorage
+
+## 📚 Topics Learned
+- What is LocalStorage
+- localStorage.setItem()
+- localStorage.getItem()
+- localStorage.removeItem()
+- localStorage.clear()
+- JSON.stringify()
+- JSON.parse()
+
+---
+
+## 🧠 Key Concepts
+- LocalStorage browser ke andar permanent data store karta hai  
+- Page refresh ya browser close hone ke baad bhi data safe rehta hai  
+- LocalStorage sirf **string** data store karta hai  
+- Array / Object ko store karne ke liye JSON.stringify() use hota hai  
+- Stored data ko wapas original format me lane ke liye JSON.parse() use hota hai  
+
+---
+#£ Small Project — Persistent To-Do App
+Features
+Add task
+Delete task
+Data save after page refresh
+DOM manipulation + LocalStorage
+
+---
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Keyframes Animation) 
-- JavaScript (Basics)**
+- JavaScript**
 
 ---
 
