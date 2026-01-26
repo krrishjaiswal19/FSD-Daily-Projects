@@ -758,6 +758,19 @@ DOM manipulation + LocalStorage
 
 ---
 
+# DAY 43 – JavaScript ES6
+## 📌 Topics Covered
+let vs const (block scope, reassignment rules)
+Arrow Functions (=>)
+Template Literals (` `)
+Default Parameters
+## 📂 Small Project
+ES6 Practice File
+Created a single JS file with 10 ES6 examples
+Covered all ES6 concepts learned today
+
+---
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Keyframes Animation) 
