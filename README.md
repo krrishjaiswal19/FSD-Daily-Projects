@@ -760,15 +760,28 @@ DOM manipulation + LocalStorage
 
 # DAY 43 – JavaScript ES6
 ## 📌 Topics Covered
-let vs const (block scope, reassignment rules)
-Arrow Functions (=>)
-Template Literals (` `)
-Default Parameters
+- let vs const (block scope reassignment rules)
+- Arrow Functions (=>)
+- Template Literals (` `)
+- Default Parameters
 ## 📂 Small Project
-ES6 Practice File
-Created a single JS file with 10 ES6 examples
-Covered all ES6 concepts learned today
+- ES6 Practice File
+- Created a single JS file with 10 ES6 examples
+- Covered all ES6 concepts learned today
+---
+# DAY 44 — JavaScript ES6 Part-2
 
+## 📘 Topics Covered (ES6 Part-2)
+- Array Destructuring
+- Object Destructuring
+- Spread Operator (...)
+- Rest Operator (...)
+## 🛠️ Small Project
+- Data Formatter App (Console Based)
+- Features:
+- Uses object destructuring
+- Uses rest operator for dynamic subjects
+- Formats and returns structured student data
 ---
 
 ## 🛠️ Technologies Used
