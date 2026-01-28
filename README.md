@@ -784,6 +784,23 @@ DOM manipulation + LocalStorage
 - Formats and returns structured student data
 ---
 
+# DAY 45 — Asynchronous JavaScript (Part-1)
+## 📌 Topics Covered
+- What is Asynchronous JavaScript
+- Synchronous vs Asynchronous execution
+- setTimeout()
+- setInterval()
+- Callback Functions
+- Callback Hell (concept)
+## 🛠️ Small Project
+- Timer + Countdown App (JavaScript)
+- Features:
+- Countdown timer using setInterval
+- Auto stop at 0
+- Clean and simple logic
+- JavaScript based implementation
+
+---
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (Keyframes Animation) 
