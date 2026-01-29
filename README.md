@@ -799,7 +799,21 @@ DOM manipulation + LocalStorage
 - Auto stop at 0
 - Clean and simple logic
 - JavaScript based implementation
+---
 
+# DAY 46 — JavaScript Promises (Very Important)
+## 📚 Topics Covered
+- What is Promise
+- Promise states (pending, resolve, reject)
+- resolve / reject
+- then() / catch()
+- Promise chaining
+- Promise with setTimeou
+## 🚀 Small Project
+- Fake API Call Simulation using Promise
+- setTimeout se API delay simulate kiya
+- resolve par fake user data return
+- reject par error handle kiya
 ---
 ## 🛠️ Technologies Used
 - HTML5
