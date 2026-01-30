@@ -815,9 +815,26 @@ DOM manipulation + LocalStorage
 - resolve par fake user data return
 - reject par error handle kiya
 ---
-## 🛠️ Technologies Used
+# DAY 47 – Async/Await & Fetch API
+
+## Learned:
+- async & await
+- try/catch error handling
+- Fetch API (GET)
+- JSON handling
+
+## Project:
+API Data Fetcher App
+- Fetch users from API
+- Display users in DOM using async/await
+
+## Tech:
+HTML, JavaScript, Fetch API
+---
+
+# 🛠️ Technologies Used
 - HTML5
-- CSS3 (Keyframes Animation) 
+- CSS3
 - JavaScript**
 
 ---
