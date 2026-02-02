@@ -828,6 +828,8 @@ API Data Fetcher App
 - Fetch users from API
 - Display users in DOM using async/await
 
+# DAY 49
+
 ## Tech:
 HTML, JavaScript, Fetch API
 ---
