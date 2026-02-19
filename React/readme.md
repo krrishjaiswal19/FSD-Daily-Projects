@@ -39,3 +39,18 @@ Today I started my React journey and learned the fundamentals of React developme
 - Props used: name, role, image
 - Multiple cards rendered using different data
 - Clean component structure
+
+# Day 4 - React State (useState)
+## Learned:
+- What is State
+- Why State is needed
+- useState Hook syntax
+- State update rules
+- Re-render concept
+
+## Projects:
+1. Counter App
+2. Show/Hide Text App
+
+## Key Concept:
+State change → Component Re-render → UI Update
