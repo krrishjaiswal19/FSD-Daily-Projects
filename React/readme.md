@@ -54,3 +54,17 @@ Today I started my React journey and learned the fundamentals of React developme
 
 ## Key Concept:
 State change → Component Re-render → UI Update
+
+# Day 5 – React Events + Conditional Rendering
+
+## Topics Covered
+- onClick event
+- onChange event
+- Event handling in React
+- Conditional rendering (&&, ternary)
+
+## Mini Project
+Login / Logout UI Toggle
+
+## Learning Outcome
+Understood how React handles user interactions and dynamic UI updates using state
