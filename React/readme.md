@@ -68,3 +68,24 @@ Login / Logout UI Toggle
 
 ## Learning Outcome
 Understood how React handles user interactions and dynamic UI updates using state
+
+---
+
+# 🚀 React Day-6 — Lists & Keys
+
+## 📌 Topic Covered
+React Lists & Keys (FSD – React Fundamentals)
+
+This project demonstrates how to:
+- Render arrays using `.map()`
+- Understand why `key` prop is important
+- Follow unique key best practices
+- Create dynamic list rendering using `useState`
+
+## 🛠 Small Project — Dynamic Product List App
+✨ Features
+- Product list rendering
+- Add new product dynamically
+- Proper unique key usage
+- State management using useState
+
