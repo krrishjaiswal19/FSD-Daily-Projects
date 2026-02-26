@@ -89,3 +89,12 @@ This project demonstrates how to:
 - Proper unique key usage
 - State management using useState
 
+# 📅 DAY 7 — React useEffect Hook (Part-1)
+## 📌 Topic Covered:
+- What is Side Effect
+- useEffect Syntax
+- Dependency Array
+- Mount vs Update Concept
+- Console Lifecycle Demo
+- Counter with useEffect
+- Small Project: Page Title Update App
