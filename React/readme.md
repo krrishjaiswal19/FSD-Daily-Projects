@@ -98,3 +98,19 @@ This project demonstrates how to:
 - Console Lifecycle Demo
 - Counter with useEffect
 - Small Project: Page Title Update App
+
+# Day 8 – useEffect Advanced
+
+## Topics Covered
+- Cleanup function
+- Multiple useEffect
+- Infinite loop issue
+- Dependency mistakes
+
+## Project
+Window Resize Tracker
+
+## Learnings
+- Event listener cleanup prevents memory leak
+- Dependency array controls execution
+- Infinite loop happens due to improper state update
